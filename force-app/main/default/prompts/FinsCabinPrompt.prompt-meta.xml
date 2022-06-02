@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Prompt xmlns="http://soap.sforce.com/2006/04/metadata">
+    <masterLabel>Fins Cabin Prompt</masterLabel>
+    <promptVersions>
+        <actionButtonLabel>Go to Fins Cabin</actionButtonLabel>
+        <actionButtonLink>https://www.finscabin.com</actionButtonLink>
+        <body>&lt;p&gt;Want to deliver valuable information to your users immediately? Then Prompts are the way to go. You can advise of current events, or things that need to be done. Since this can also be controlled by profile, if the message you are trying to convey only applies to a specific group, then be specific.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;For Example, if you wanted to inform users of the FINS Cabin Webinar Series (www.finscabin.com) you could use images and links to share this information.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</body>
+        <customApplication>standard__LightningSales</customApplication>
+        <delayDays>1</delayDays>
+        <displayType>DockedComposer</displayType>
+        <endDate>2025-05-01</endDate>
+        <header>Prompts, Prompts, Prompts</header>
+        <imageAltText>Fins Cabin Image</imageAltText>
+        <imageLink>https://trailblazers.salesforce.com/ncsphoto/nt7QQKC4Px_njQyWb-WN94S2nkCuvdno2j1z9u7RBvERRH7PCQ6IBg8H8bD-5jHo1pvaSBj9zMZ6hAo4iDC66w%3D%3D</imageLink>
+        <imageLocation>Bottom</imageLocation>
+        <isPublished>true</isPublished>
+        <masterLabel>Fins Cabin Prompt</masterLabel>
+        <publishedDate>2022-05-08</publishedDate>
+        <shouldDisplayActionButton>true</shouldDisplayActionButton>
+        <shouldIgnoreGlobalDelay>true</shouldIgnoreGlobalDelay>
+        <startDate>2022-05-01</startDate>
+        <targetPageKey1>home</targetPageKey1>
+        <targetPageType>standard__namedPage</targetPageType>
+        <timesToDisplay>5</timesToDisplay>
+        <title>Important Information</title>
+        <userAccess>Everyone</userAccess>
+        <userProfileAccess>Everyone</userProfileAccess>
+        <versionNumber>1</versionNumber>
+    </promptVersions>
+</Prompt>
